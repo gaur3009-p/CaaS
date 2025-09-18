@@ -1,6 +1,6 @@
 from langchain.chains import SequentialChain
-from linda_chain import LindaChain
-from mike_chain import MikeChain
+from agents.glue_agent.linda_chain import LindaChain
+from agents.glue_agent.mike_chain import MikeChain
 
 class WorkflowOrchestrator:
     def __init__(self):
