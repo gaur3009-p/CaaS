@@ -1,3 +1,3 @@
-HUGGINGFACE_API_KEY = "your_huggingface_api_key"
-PINECONE_API_KEY = "your_pinecone_api_key"
+HUGGINGFACE_API_KEY = "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"
+PINECONE_API_KEY = "pcsk_6orTQE_263PZ85pKmezbqTWN5waE4LnaCeg7RynYU1P6vAtsbS42cbHeEPNrzCWpgmwmv3"
 FACEBOOK_API_TOKEN = "your_facebook_api_token"
